@@ -23,7 +23,7 @@ I love coding, searching
 <p align="left"> <a href="https://www.github.com/abdellah20015" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/abdellah-agnaou-230884251" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 ### Badges
 
-<b>My GitHub Stats</b>
+<b>My GitHub Stats</b> 
 
 <a href="http://www.github.com/abdellah20015"><img src="https://github-readme-stats.vercel.app/api?username=abdellah20015&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=0f172a&icon_color=000000&bg_color=ffffff&hide_border=true&show_icons=true" alt="abdellah20015's GitHub stats" /></a>
 
@@ -32,3 +32,6 @@ I love coding, searching
 <a href="http://www.github.com/abdellah20015"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=abdellah20015&bg_color=ffffff&color=0f172a&line=000000&point=0f172a&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/abdellah20015" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdellah20015&langs_count=10&title_color=ef4444&text_color=0f172a&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<a href="https://github.com/abdellah20015" align="left"><img src="https://starchart.cc/abdellah20015/{repo}.svg" alt="Top Languages" /></a>
+
