@@ -33,5 +33,4 @@ I love coding, searching
 
 <a href="https://github.com/abdellah20015" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdellah20015&langs_count=10&title_color=ef4444&text_color=0f172a&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<a href="https://github.com/abdellah20015" align="left"><img src="https://starchart.cc/abdellah20015/{repo}.svg" alt="Top Languages" /></a>
 
