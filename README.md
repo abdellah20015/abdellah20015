@@ -83,14 +83,23 @@ I love coding, searching
 
 ### Badges
 
-<b>My GitHub Stats</b> 
+## My GitHub Stats
 
-<a href="http://www.github.com/abdellah20015"><img src="https://github-readme-stats.vercel.app/api?username=abdellah20015&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=0f172a&icon_color=000000&bg_color=ffffff&hide_border=true&show_icons=true" alt="abdellah20015's GitHub stats" /></a>
+<a href="http://www.github.com/abdellah20015">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdellah20015&show_icons=true&count_private=true&title_color=ef4444&text_color=0f172a&icon_color=000000&bg_color=ffffff&hide_border=true" alt="abdellah20015's GitHub stats" />
+</a>
 
-<a href="http://www.github.com/abdellah20015"><img src="https://github-readme-streak-stats.herokuapp.com/?user=abdellah20015&stroke=0f172a&background=ffffff&ring=ef4444&fire=ef4444&currStreakNum=0f172a&currStreakLabel=ef4444&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" /></a>
+<a href="http://www.github.com/abdellah20015">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdellah20015&stroke=0f172a&background=ffffff&ring=ef4444&fire=ef4444&currStreakNum=0f172a&currStreakLabel=ef4444&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" alt="abdellah20015's GitHub Streak" />
+</a>
 
-<a href="http://www.github.com/abdellah20015"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=abdellah20015&bg_color=ffffff&color=0f172a&line=000000&point=0f172a&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/abdellah20015">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abdellah20015&bg_color=ffffff&color=0f172a&line=000000&point=0f172a&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdellah20015&langs_count=10&title_color=ef4444&text_color=0f172a&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+<a href="http://www.github.com/abdellah20015">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdellah20015&langs_count=10&title_color=ef4444&text_color=0f172a&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+</a>
+
 
 
