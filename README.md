@@ -138,10 +138,17 @@ I love coding, searching
 </a>
 
 
+### Projects performants
+
 <a href="https://github.com/abdellah20015">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdellah20015&repo=elearning_springboot&theme=dark&hide_border=true" alt="Detection Automatique" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdellah20015&repo=elearning_angular&theme=dark&hide_border=true" alt="Detection Sans Intervention" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdellah20015&repo=elearning_springboot&theme=dark&hide_border=true" alt="E-learning" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdellah20015&repo=elearning_angular&theme=dark&hide_border=true" alt="E-learning" />
 </a>
-
-
+<a href="https://github.com/abdellah20015">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdellah20015&repo=local_springboot&theme=dark&hide_border=true" alt="Local" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdellah20015&repo=local_angular&theme=dark&hide_border=true" alt="Local" />
+</a>
+<a href="https://github.com/abdellah20015">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdellah20015&repo=E-learning&theme=dark&hide_border=true" alt="Elearning" />
+</a>
 
