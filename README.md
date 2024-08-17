@@ -115,9 +115,7 @@ I love coding, searching
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdellah20015&langs_count=10&title_color=ef4444&text_color=0f172a&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </a>
 
-<a href="http://www.github.com/abdellah20015">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=abdellah20015&bg_color=0D1117&title_color=ef4444&text_color=0f172a&icon_color=000000&hide_border=true&custom_title=Most%20Used%20Languages&langs_count=5" alt="Most Used Languages" />
-</a>
+
 
 
 
