@@ -100,21 +100,31 @@ I love coding, searching
 
 ### My GitHub Stats
 
-<a href="http://www.github.com/abdellah20015">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdellah20015&show_icons=true&count_private=true&title_color=ef4444&text_color=0f172a&icon_color=000000&bg_color=ffffff&hide_border=true" alt="abdellah20015's GitHub stats" />
-</a>
+<table>
+  <tr>
+    <td>
+      <a href="http://www.github.com/abdellah20015">
+        <img src="https://github-readme-stats.vercel.app/api?username=abdellah20015&show_icons=true&count_private=true&title_color=ef4444&text_color=0f172a&icon_color=000000&bg_color=ffffff&hide_border=true" alt="abdellah20015's GitHub stats" />
+      </a>
+    </td>
+    <td>
+      <a href="http://www.github.com/abdellah20015">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdellah20015&stroke=0f172a&background=ffffff&ring=ef4444&fire=ef4444&currStreakNum=0f172a&currStreakLabel=ef4444&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" alt="abdellah20015's GitHub Streak" />
+      </a>
+    </td>
+    <td>
+      <a href="http://www.github.com/abdellah20015">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdellah20015&bg_color=ffffff&color=0f172a&line=ef4444&point=ef4444&area=true&hide_border=true&radius=8&custom_title=Modern%20GitHub%20Contributions%20Graph" alt="Modern GitHub Contributions Graph" />
+      </a>
+    </td>
+    <td>
+      <a href="http://www.github.com/abdellah20015">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdellah20015&langs_count=10&title_color=ef4444&text_color=0f172a&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<a href="http://www.github.com/abdellah20015">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdellah20015&stroke=0f172a&background=ffffff&ring=ef4444&fire=ef4444&currStreakNum=0f172a&currStreakLabel=ef4444&sideNums=0f172a&sideLabels=0f172a&dates=0f172a&hide_border=true" alt="abdellah20015's GitHub Streak" />
-</a>
-
-<a href="http://www.github.com/abdellah20015">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdellah20015&bg_color=ffffff&color=0f172a&line=ef4444&point=ef4444&area=true&hide_border=true&radius=8&custom_title=Modern%20GitHub%20Contributions%20Graph" alt="Modern GitHub Contributions Graph" />
-</a>
-
-<a href="http://www.github.com/abdellah20015">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdellah20015&langs_count=10&title_color=ef4444&text_color=0f172a&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-</a>
 
 
 
