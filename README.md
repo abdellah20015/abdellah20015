@@ -74,6 +74,11 @@ I love coding, searching
       <a href="https://dev.to">
         <img src="https://media.dev.to/cdn-cgi/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F228%2FGithub_Badges-03.png" width="100" alt="Badge 4">
       </a>
+    </td> 
+    <td>
+      <a href="https://dev.to">
+        <img src="https://media.dev.to/cdn-cgi/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F226%2FGithub_Badges-01.png" width="100" alt="Badge 4">
+      </a>
     </td>
   </tr>
 </table>
