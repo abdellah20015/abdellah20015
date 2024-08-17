@@ -19,9 +19,7 @@ I love coding, searching
 </p>
 
 ### IT technology
-<p align="left">
-  <a href="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" width="36" height="36" alt="C" /></a>
-</p>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 
 ### Socials
 
