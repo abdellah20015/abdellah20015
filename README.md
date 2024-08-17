@@ -133,12 +133,10 @@ I love coding, searching
 
 
 
-<a href="https://www.coursera.org/learn/your-course">
-  <img src="https://img.shields.io/badge/Certification-Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white" alt="Coursera Certification" />
+<a href="https://github.com/abdellah20015">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=abdellah20015&count_private=true&theme=default" alt="Contribution Stats" />
 </a>
-<a href="https://www.udemy.com/course/your-course">
-  <img src="https://img.shields.io/badge/Certification-Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Udemy Certification" />
-</a>
+
 
 
 
