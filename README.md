@@ -118,15 +118,10 @@ I love coding, searching
 
 
 
-<a href="http://www.github.com/abdellah20015">
-  <img src="https://img.shields.io/github/repo-size/abdellah20015/repository-name?color=ef4444&style=for-the-badge" alt="Repository Size" />
+<a href="https://github.com/abdellah20015">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdellah20015&theme=default" alt="GitHub Profile Summary" />
 </a>
-<a href="http://www.github.com/abdellah20015">
-  <img src="https://img.shields.io/github/issues/abdellah20015/repository-name?color=ef4444&style=for-the-badge" alt="Issues" />
-</a>
-<a href="http://www.github.com/abdellah20015">
-  <img src="https://img.shields.io/github/forks/abdellah20015/repository-name?color=ef4444&style=for-the-badge" alt="Forks" />
-</a>
+
 
 
 
