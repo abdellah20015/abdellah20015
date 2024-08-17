@@ -139,8 +139,8 @@ I love coding, searching
 
 
 <a href="https://github.com/abdellah20015">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdellah20015&repo=detection-automatique&theme=dark&hide_border=true" alt="Detection Automatique" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdellah20015&repo=detection-sans-intervention&theme=dark&hide_border=true" alt="Detection Sans Intervention" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdellah20015&repo=elearning_springboot&theme=dark&hide_border=true" alt="Detection Automatique" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdellah20015&repo=elearning_angular&theme=dark&hide_border=true" alt="Detection Sans Intervention" />
 </a>
 
 
