@@ -117,12 +117,16 @@ I love coding, searching
 </a>
 
 
+### GitHub Profile Summary
 
 <a href="https://github.com/abdellah20015">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdellah20015&theme=default" alt="GitHub Profile Summary" />
 </a>
 
 
+<a href="https://github.com/abdellah20015">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdellah20015&theme=default" alt="GitHub Streak" />
+</a>
 
 
 
