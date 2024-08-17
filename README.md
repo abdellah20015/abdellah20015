@@ -118,6 +118,15 @@ I love coding, searching
 
 
 
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white" alt="Python" />
+</a>
+<a href="https://www.java.com/">
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
+</a>
+<a href="https://spring.io/">
+  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot" />
+</a>
 
 
 
