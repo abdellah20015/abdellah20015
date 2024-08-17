@@ -94,12 +94,9 @@ I love coding, searching
 </a>
 
 <a href="http://www.github.com/abdellah20015">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=abdellah20015&bg_color=ffffff&color=0f172a&line=000000&point=0f172a&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-</a>
-
-<a href="http://www.github.com/abdellah20015">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdellah20015&langs_count=10&title_color=ef4444&text_color=0f172a&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </a>
+
 
 
 
