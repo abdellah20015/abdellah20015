@@ -119,8 +119,16 @@ I love coding, searching
 
 
 <a href="http://www.github.com/abdellah20015">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdellah20015&bg_color=ffffff&color=0f172a&line=ef4444&point=ef4444&area=true&hide_border=true&radius=8&custom_title=Contributions%20Calendar" alt="Contributions Calendar" />
+  <img src="https://img.shields.io/github/repo-size/abdellah20015/repository-name?color=ef4444&style=for-the-badge" alt="Repository Size" />
 </a>
+<a href="http://www.github.com/abdellah20015">
+  <img src="https://img.shields.io/github/issues/abdellah20015/repository-name?color=ef4444&style=for-the-badge" alt="Issues" />
+</a>
+<a href="http://www.github.com/abdellah20015">
+  <img src="https://img.shields.io/github/forks/abdellah20015/repository-name?color=ef4444&style=for-the-badge" alt="Forks" />
+</a>
+
+
 
 
 
