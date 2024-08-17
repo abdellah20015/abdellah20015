@@ -112,41 +112,93 @@ I love coding, searching
 
 
 ### Top Contributed Repo
+<style>
+  .top-contributed-repo {
+  background-color: #1e1e2e;
+  color: #ffffff;
+  padding: 20px;
+  border-radius: 10px;
+  font-family: Arial, sans-serif;
+}
 
-<div align="center" style="background-color: #1e1e2f; padding: 10px; border-radius: 10px; border: 1px solid #383850;">
-  <h3 align="center" style="color: #e21b6f;">Abdellah Agnaou's GitHub Contributor Stats</h3>
+h2 {
+  color: #ffffff;
+  margin-bottom: 15px;
+}
 
-  <ul style="list-style: none; padding-left: 0;">
-    <li style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="https://github.com/abdellah20015.png" width="40" height="40" style="border-radius: 50%; margin-right: 10px;" alt="GitHub Avatar">
-      <a href="https://github.com/abdellah20015/E-learning" style="color: #00FFFF; font-size: 18px; font-weight: bold; text-decoration: none;">E-Learning-Web-App</a>
-      <span style="margin-left: auto; background-color: #1e1e2f; padding: 5px 10px; border-radius: 5px; color: #00FFFF; font-weight: bold; border: 1px solid #00FFFF;">B</span>
-    </li>
+.contributor-stats {
+  background-color: #2d2d3f;
+  padding: 15px;
+  border-radius: 8px;
+}
 
-    <li style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="https://github.com/abdellah20015.png" width="40" height="40" style="border-radius: 50%; margin-right: 10px;" alt="GitHub Avatar">
-      <a href="https://github.com/abdellah20015/elearning_springboot" style="color: #00FFFF; font-size: 18px; font-weight: bold; text-decoration: none;">URL-Shortner-API-SpringBoot</a>
-      <span style="margin-left: auto; background-color: #1e1e2f; padding: 5px 10px; border-radius: 5px; color: #00FFFF; font-weight: bold; border: 1px solid #00FFFF;">B</span>
-    </li>
+h3 {
+  color: #ff79c6;
+  margin-bottom: 10px;
+}
 
-    <li style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="https://github.com/abdellah20015.png" width="40" height="40" style="border-radius: 50%; margin-right: 10px;" alt="GitHub Avatar">
-      <a href="https://github.com/abdellah20015/elearning_angular" style="color: #00FFFF; font-size: 18px; font-weight: bold; text-decoration: none;">URL-Shortner-API</a>
-      <span style="margin-left: auto; background-color: #1e1e2f; padding: 5px 10px; border-radius: 5px; color: #00FFFF; font-weight: bold; border: 1px solid #00FFFF;">B</span>
-    </li>
+.repo-list {
+  list-style-type: none;
+  padding: 0;
+}
 
-    <li style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="https://github.com/abdellah20015.png" width="40" height="40" style="border-radius: 50%; margin-right: 10px;" alt="GitHub Avatar">
-      <a href="https://github.com/abdellah20015/local_springBoot" style="color: #00FFFF; font-size: 18px; font-weight: bold; text-decoration: none;">To-Do-List-ReactJS</a>
-      <span style="margin-left: auto; background-color: #1e1e2f; padding: 5px 10px; border-radius: 5px; color: #00FFFF; font-weight: bold; border: 1px solid #00FFFF;">B</span>
-    </li>
+.repo-list li {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
 
-    <li style="display: flex; align-items: center; margin-bottom: 10px;">
-      <img src="https://github.com/abdellah20015.png" width="40" height="40" style="border-radius: 50%; margin-right: 10px;" alt="GitHub Avatar">
-      <a href="https://github.com/abdellah20015/local_angular" style="color: #00FFFF; font-size: 18px; font-weight: bold; text-decoration: none;">portfolio</a>
-      <span style="margin-left: auto; background-color: #1e1e2f; padding: 5px 10px; border-radius: 5px; color: #00FFFF; font-weight: bold; border: 1px solid #00FFFF;">B</span>
-    </li>
-  </ul>
+.repo-icon {
+  margin-right: 10px;
+  font-size: 1.2em;
+}
+
+.repo-name {
+  flex-grow: 1;
+  color: #8be9fd;
+}
+
+.repo-badge {
+  background-color: #50fa7b;
+  color: #282a36;
+  padding: 2px 6px;
+  border-radius: 50%;
+  font-weight: bold;
+}
+</style>
+
+<div class="top-contributed-repo">
+  <h2>Top Contributed Repo</h2>
+  <div class="contributor-stats">
+    <h3>Abdellah Agnaou's GitHub Contributor Stats</h3>
+    <ul class="repo-list">
+      <li>
+        <span class="repo-icon">📁</span>
+        <span class="repo-name">E-learning</span>
+        <span class="repo-badge">B</span>
+      </li>
+      <li>
+        <span class="repo-icon">📁</span>
+        <span class="repo-name">elearning_springboot</span>
+        <span class="repo-badge">B</span>
+      </li>
+      <li>
+        <span class="repo-icon">📁</span>
+        <span class="repo-name">elearning_angular</span>
+        <span class="repo-badge">B</span>
+      </li>
+      <li>
+        <span class="repo-icon">📁</span>
+        <span class="repo-name">local_springBoot</span>
+        <span class="repo-badge">B</span>
+      </li>
+      <li>
+        <span class="repo-icon">📁</span>
+        <span class="repo-name">local_angular</span>
+        <span class="repo-badge">B</span>
+      </li>
+    </ul>
+  </div>
 </div>
 
 
