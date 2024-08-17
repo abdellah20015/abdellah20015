@@ -125,8 +125,9 @@ I love coding, searching
 
 
 <a href="https://github.com/abdellah20015">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdellah20015&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdellah20015&layout=compact&theme=default" alt="Top Languages" />
 </a>
+
 
 
 
