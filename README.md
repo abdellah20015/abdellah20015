@@ -111,19 +111,43 @@ I love coding, searching
 </a>
 
 
-### 
-<a href="https://github.com/abdellah20015/E-learning" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Top%20Contributed%20Repo-your--repo--name-green?style=for-the-badge&logo=github" alt="Top Contributed Repo Badge" />
-</a>
+### Top Contributed Repo
 
-<a href="https://github.com/abdellah20015/elearning_springboot" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Top%20Contributed%20Repo-your--repo--name-green?style=for-the-badge&logo=github" alt="Top Contributed Repo Badge" />
-</a>
+<div align="center" style="background-color: #1e1e2f; padding: 10px; border-radius: 10px; border: 1px solid #383850;">
+  <h3 align="center" style="color: #e21b6f;">Abdellah Agnaou's GitHub Contributor Stats</h3>
 
-<a href="https://github.com/abdellah20015/elearning_angular" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Top%20Contributed%20Repo-your--repo--name-green?style=for-the-badge&logo=github" alt="Top Contributed Repo Badge" />
-</a>
+  <ul style="list-style: none; padding-left: 0;">
+    <li style="display: flex; align-items: center; margin-bottom: 10px;">
+      <img src="https://github.com/abdellah20015.png" width="40" height="40" style="border-radius: 50%; margin-right: 10px;" alt="GitHub Avatar">
+      <a href="https://github.com/abdellah20015/E-learning" style="color: #00FFFF; font-size: 18px; font-weight: bold; text-decoration: none;">E-Learning-Web-App</a>
+      <span style="margin-left: auto; background-color: #1e1e2f; padding: 5px 10px; border-radius: 5px; color: #00FFFF; font-weight: bold; border: 1px solid #00FFFF;">B</span>
+    </li>
 
+    <li style="display: flex; align-items: center; margin-bottom: 10px;">
+      <img src="https://github.com/abdellah20015.png" width="40" height="40" style="border-radius: 50%; margin-right: 10px;" alt="GitHub Avatar">
+      <a href="https://github.com/abdellah20015/elearning_springboot" style="color: #00FFFF; font-size: 18px; font-weight: bold; text-decoration: none;">URL-Shortner-API-SpringBoot</a>
+      <span style="margin-left: auto; background-color: #1e1e2f; padding: 5px 10px; border-radius: 5px; color: #00FFFF; font-weight: bold; border: 1px solid #00FFFF;">B</span>
+    </li>
+
+    <li style="display: flex; align-items: center; margin-bottom: 10px;">
+      <img src="https://github.com/abdellah20015.png" width="40" height="40" style="border-radius: 50%; margin-right: 10px;" alt="GitHub Avatar">
+      <a href="https://github.com/abdellah20015/elearning_angular" style="color: #00FFFF; font-size: 18px; font-weight: bold; text-decoration: none;">URL-Shortner-API</a>
+      <span style="margin-left: auto; background-color: #1e1e2f; padding: 5px 10px; border-radius: 5px; color: #00FFFF; font-weight: bold; border: 1px solid #00FFFF;">B</span>
+    </li>
+
+    <li style="display: flex; align-items: center; margin-bottom: 10px;">
+      <img src="https://github.com/abdellah20015.png" width="40" height="40" style="border-radius: 50%; margin-right: 10px;" alt="GitHub Avatar">
+      <a href="https://github.com/abdellah20015/local_springBoot" style="color: #00FFFF; font-size: 18px; font-weight: bold; text-decoration: none;">To-Do-List-ReactJS</a>
+      <span style="margin-left: auto; background-color: #1e1e2f; padding: 5px 10px; border-radius: 5px; color: #00FFFF; font-weight: bold; border: 1px solid #00FFFF;">B</span>
+    </li>
+
+    <li style="display: flex; align-items: center; margin-bottom: 10px;">
+      <img src="https://github.com/abdellah20015.png" width="40" height="40" style="border-radius: 50%; margin-right: 10px;" alt="GitHub Avatar">
+      <a href="https://github.com/abdellah20015/local_angular" style="color: #00FFFF; font-size: 18px; font-weight: bold; text-decoration: none;">portfolio</a>
+      <span style="margin-left: auto; background-color: #1e1e2f; padding: 5px 10px; border-radius: 5px; color: #00FFFF; font-weight: bold; border: 1px solid #00FFFF;">B</span>
+    </li>
+  </ul>
+</div>
 
 
 
