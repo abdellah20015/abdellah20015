@@ -118,15 +118,10 @@ I love coding, searching
 
 
 
-<a href="https://www.python.org/">
-  <img src="https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<a href="http://www.github.com/abdellah20015">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdellah20015&bg_color=ffffff&color=0f172a&line=ef4444&point=ef4444&area=true&hide_border=true&radius=8&custom_title=Contributions%20Calendar" alt="Contributions Calendar" />
 </a>
-<a href="https://www.java.com/">
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
-</a>
-<a href="https://spring.io/">
-  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot" />
-</a>
+
 
 
 
