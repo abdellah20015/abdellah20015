@@ -52,7 +52,7 @@ I love coding, searching
 [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 
 
-### Throphy
+### Badges
 <table>
   <tr>
     <td>
@@ -77,13 +77,22 @@ I love coding, searching
     </td>
   </tr>
 </table>
+
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/abdellah20015" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/abdellah-agnaou-230884251" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> 
+  <a href="https://www.github.com/abdellah20015" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  </a> 
+  <a href="https://www.linkedin.com/in/abdellah-agnaou-230884251" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+</p>
 
-### Badges
 
-## My GitHub Stats
+
+
+### My GitHub Stats
 
 <a href="http://www.github.com/abdellah20015">
   <img src="https://github-readme-stats.vercel.app/api?username=abdellah20015&show_icons=true&count_private=true&title_color=ef4444&text_color=0f172a&icon_color=000000&bg_color=ffffff&hide_border=true" alt="abdellah20015's GitHub stats" />
