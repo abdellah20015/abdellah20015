@@ -53,17 +53,30 @@ I love coding, searching
 
 
 ### Badges
-<p align="left">
-  
-[![Badge 1](https://media.dev.to/cdn-cgi/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F335%2FWix_Studio_Winner_Badge.png)](https://dev.to)
-
-[![Badge 2](https://media.dev.to/cdn-cgi/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F333%2FAsset_17.png)](https://dev.to)
-
-[![Badge 3](https://media.dev.to/cdn-cgi/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F320%2FHeader_Draft-06.png)](https://dev.to)
-
-[![Badge 4](https://media.dev.to/cdn-cgi/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F228%2FGithub_Badges-03.png)](https://dev.to)
-</p>
-
+<table>
+  <tr>
+    <td>
+      <a href="https://dev.to">
+        <img src="https://media.dev.to/cdn-cgi/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F335%2FWix_Studio_Winner_Badge.png" width="100" alt="Badge 1">
+      </a>
+    </td>
+    <td>
+      <a href="https://dev.to">
+        <img src="https://media.dev.to/cdn-cgi/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F333%2FAsset_17.png" width="100" alt="Badge 2">
+      </a>
+    </td>
+    <td>
+      <a href="https://dev.to">
+        <img src="https://media.dev.to/cdn-cgi/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F320%2FHeader_Draft-06.png" width="100" alt="Badge 3">
+      </a>
+    </td>
+    <td>
+      <a href="https://dev.to">
+        <img src="https://media.dev.to/cdn-cgi/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F228%2FGithub_Badges-03.png" width="100" alt="Badge 4">
+      </a>
+    </td>
+  </tr>
+</table>
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/abdellah20015" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/abdellah-agnaou-230884251" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
