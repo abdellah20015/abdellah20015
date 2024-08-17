@@ -52,7 +52,7 @@ I love coding, searching
 [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
 
 
-[![Badge 1](https://img.shields.io/badge/Custom%20Badge%201-FF0000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiwyMEw3LDE1SDEwVjRIMTRWMTVIMTdMMTIsMjBaIi8+PC9zdmc+)](https://example.com/badge1)
+[![Badge 1](https://media.dev.to/cdn-cgi/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F335%2FWix_Studio_Winner_Badge.png)](https://example.com/badge1)
 [![Badge 2](https://img.shields.io/badge/Custom%20Badge%202-800080?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiwyMEw3LDE1SDEwVjRIMTRWMTVIMTdMMTIsMjBaIi8+PC9zdmc+)](https://example.com/badge2)
 [![Badge 3](https://img.shields.io/badge/Custom%20Badge%203-008000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiwyMEw3LDE1SDEwVjRIMTRWMTVIMTdMMTIsMjBaIi8+PC9zdmc+)](https://example.com/badge3)
 [![Badge 4](https://img.shields.io/badge/Custom%20Badge%204-0000FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiwyMEw3LDE1SDEwVjRIMTRWMTVIMTdMMTIsMjBaIi8+PC9zdmc+)](https://example.com/badge4)
