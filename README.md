@@ -136,11 +136,6 @@ I love coding, searching
 </a>
 
 
-### Contribution Stats
-
-<a href="https://github.com/abdellah20015">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=abdellah20015&count_private=true&theme=default" alt="Contribution Stats" />
-</a>
 
 
 ### Projects performants
