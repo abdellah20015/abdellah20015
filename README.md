@@ -10,7 +10,7 @@ I love coding, searching
 * 🖥️  See my portfolio at [My linkdin](http://www.linkedin.com/in/abdellah-agnaou-230884251) and [My portfolio](https://abdellah20015.github.io/Portfolio/).
 * ✉️  You can contact me at [abdellahagnaou29062001@gmail.com](mailto:abdellahagnaou29062001@gmail.com)
 * 🚀  I'm currently working on [github](http://github.com/abdellah20015/)
-* 🧠  I'm learning web/mobile developpement & Fullstack.
+* 🧠  I'm learning web/mobile developpement & Fullstack & AI.
 
 ### Skills
 
