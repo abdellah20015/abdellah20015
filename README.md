@@ -124,7 +124,7 @@ I love coding, searching
 </a>
 
 <a href="http://www.github.com/abdellah20015">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdellah20015&bg_color=ffffff&color=0f172a&line=4f46e5&point=ef4444&area=true&hide_border=true&radius=10&custom_title=GitHub%20Contributions%20-%20Current%20Month&font=Inter&fontSize=14&height=300&hide_title=false&area_color=4f46e580" alt="GitHub Contributions - Current Month" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdellah20015&bg_color=ffffff&color=0f172a&line=ef4444&point=ef4444&area=true&hide_border=true&radius=8&custom_title=Modern%20GitHub%20Contributions%20Graph" alt="Modern GitHub Contributions Graph" />
 </a>
 
 <a href="http://www.github.com/abdellah20015">
