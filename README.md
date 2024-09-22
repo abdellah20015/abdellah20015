@@ -63,41 +63,7 @@ I love coding, searching
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.com/)
 
-### Badges
-<table>
-  <tr>
-    <td>
-      <a href="https://dev.to">
-        <img src="https://media.dev.to/cdn-cgi/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F335%2FWix_Studio_Winner_Badge.png" width="100" alt="Badge 1">
-      </a>
-    </td>
-    <td>
-      <a href="https://dev.to">
-        <img src="https://media.dev.to/cdn-cgi/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F333%2FAsset_17.png" width="100" alt="Badge 2">
-      </a>
-    </td>
-    <td>
-      <a href="https://dev.to">
-        <img src="https://media.dev.to/cdn-cgi/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F320%2FHeader_Draft-06.png" width="100" alt="Badge 3">
-      </a>
-    </td>
-    <td>
-      <a href="https://dev.to">
-        <img src="https://media.dev.to/cdn-cgi/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F228%2FGithub_Badges-03.png" width="100" alt="Badge 4">
-      </a>
-    </td> 
-    <td>
-      <a href="https://dev.to">
-        <img src="https://media.dev.to/cdn-cgi/image/width=192,height=,fit=scale-down,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Fbadge%2Fbadge_image%2F226%2FGithub_Badges-01.png" width="100" alt="Badge 5">
-      </a>
-    </td>
-    <td>
-      <a href="#">
-        <img src="https://files.oaiusercontent.com/file-6XdG4LqvGHMyKfZcOsDbG85P?se=2024-08-18T17%3A00%3A48Z&sp=r&sv=2023-11-03&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dae5540cf-eb1a-499b-8ef8-00a9db09cf12.webp&sig=7%2B3GHzaRf1bo/6woeI5Ctu6hIb3b%2BT9uQTSZTW71RkI%3D" width="100" alt="Badge 6">
-      </a>
-    </td>
-  </tr>
-</table>
+
 
 ### Socials
 
